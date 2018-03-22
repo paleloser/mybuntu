@@ -33,20 +33,25 @@ Scaling Factor: 0.95
 ## APPEARANCE
 
 **Themes**: GNOME-V-HSierra-1.3.6 
+    
     - https://www.gnome-look.org/p/1171688/
 
 **Cursors**: DMZ Black
 
 **Icons**: La Capitaine Icons 0.5.0 (Custom mix with Papirus) 
+    
     - https://www.gnome-look.org/p/1148695/
+    
     - https://www.gnome-look.org/p/1166289/
 
 **Gnome Shell**: Human (Custom fonts, sizing, colors, :hover and apps icon) 
+    
     - https://www.gnome-look.org/p/1171095/
 
 ## GDM
 
 macOS High Sierra 
+    
     - https://www.gnome-look.org/p/1207015/
 
 ## PLYMOUTH
