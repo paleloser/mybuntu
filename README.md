@@ -4,8 +4,11 @@ Custom Ubuntu Theme
 ## FONTS
 
 **Window Title**: Lucida MAC Regular - 9 (NoobLabs MACBUNTU)
+
 **Interface**: Myriad Set Pro Semibold - 10
+
 **Document**: Myriad Set Pro Semibold - 10
+
 **Monospaced**: Andale Mono Regular - 9
 
 Scaling Factor: 0.95
@@ -31,10 +34,13 @@ Scaling Factor: 0.95
 
 **Themes**: GNOME-V-HSierra-1.3.6 
     - https://www.gnome-look.org/p/1171688/
+
 **Cursors**: DMZ Black
+
 **Icons**: La Capitaine Icons 0.5.0 (Custom mix with Papirus) 
     - https://www.gnome-look.org/p/1148695/
     - https://www.gnome-look.org/p/1166289/
+
 **Gnome Shell**: Human (Custom fonts, sizing, colors, :hover and apps icon) 
     - https://www.gnome-look.org/p/1171095/
 
