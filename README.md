@@ -15,20 +15,26 @@ Scaling Factor: 0.95
 
 ## EXTENSIONS
 
-* Blyr 
+**Blyr** 
+    
     - https://extensions.gnome.org/extension/1251/blyr/
-* Coverflow alt-tab 
+**Coverflow alt-tab**
+
     - https://extensions.gnome.org/extension/97/coverflow-alt-tab/
-* Openweather 
+**Openweather** 
+    
     - https://extensions.gnome.org/extension/750/openweather/
-* Panel osd: configures where notifications appear on screen
+**Panel osd**: configures where notifications appear on screen
+    
     - https://extensions.gnome.org/extension/708/panel-osd/
-* Places status indicator: adds _places_ on top bar
+**Places status indicator**: adds _places_ on top bar
+    
     - https://extensions.gnome.org/extension/8/places-status-indicator/
-* Remove dropdown arrows: remove dropdown arrows from top bar
+**Remove dropdown arrows**: remove dropdown arrows from top bar
+    
     - https://extensions.gnome.org/extension/800/remove-dropdown-arrows/
-* Ubuntu dock
-* User themes 
+**Ubuntu dock**
+**User themes** 
 
 ## APPEARANCE
 
@@ -57,4 +63,5 @@ macOS High Sierra
 ## PLYMOUTH
 
 Ubuntu paw
+    
     - https://www.gnome-look.org/p/1154790/
